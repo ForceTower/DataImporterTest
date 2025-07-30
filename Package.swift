@@ -17,8 +17,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "FileImporter",
-            url: "https://github.com/ForceTower/DataImporterTest/releases/download/0.0.1/FileImporter.xcframework.zip",
+            url: "https://github.com/ForceTower/DataImporterTest/releases/download/0.0.2/FileImporter.xcframework.zip",
             // swift package compute-checksum FileImporter.xcframework.zip
-            checksum: "066523e0727a99b01f07bff61a63fe52db8f86e927c5dc96b05110cc7ef984c1"),
+            checksum: "0b7ec29df12f68bd63ea8ce13a2e184ff2acd9b22cf44f024c18a003516e78ad"),
     ]
 )
